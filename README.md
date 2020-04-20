@@ -6,4 +6,6 @@ react, bootstrap4, jquery.
 backend:
 node.js, mysql.
 
-+ admin crud system.
++ authentication & authorization
++ protected routes
++ admin crud system
