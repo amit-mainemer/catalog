@@ -1,9 +1,8 @@
-# catalog
-catalog
-book catalog web app.
-frontend:
+# Catalog
+Book catalog web app.
+Frontend:
 react, bootstrap4, jquery.
-backend:
+Backend:
 node.js, mysql.
 
 + authentication & authorization
