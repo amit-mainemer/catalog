@@ -18,7 +18,6 @@ class AdminAuthors extends Component {
      async componentDidMount(){
         try{
             let data = await getAuthors();
-            console.log(data);
             this.setState({ authors: data })
          } catch (err) {
            this.setState({error: "Currently No authors..."});
